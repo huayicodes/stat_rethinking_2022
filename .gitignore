@@ -129,6 +129,12 @@ env.bak/
 venv.bak/
 numpyro_venv/
 
+# data 
+Data/
+
+# VScode
+.vscode/
+
 # Spyder project settings
 .spyderproject
 .spyproject
